@@ -30,7 +30,7 @@ const Homepage = () => {
 
         </div>
 
-        <img src ="/images/clothingdonation.jpeg" alt = "donors image" className='donorsImg'/>
+        <img src ="/images/clothingdonation.jpeg" alt = "donors" className='donorsImg'/>
 
         </div>
 
@@ -39,3 +39,4 @@ const Homepage = () => {
 )
 }
 export default Homepage;
+
