@@ -11,12 +11,15 @@
 span{
   color: rgb(125,171,8); 
   padding-left: 50%;
-  font-size: x-large;
+  font-size: 48px;
 }
 #text{
     /* padding-top: %; */
     font-size:small ;
-    padding-left: 10%;
+    padding-left: 8%;
+}
+p{
+    text-align: justify;
 }
 @media screen and (min-width:280px) and (max-width:460px){
 
