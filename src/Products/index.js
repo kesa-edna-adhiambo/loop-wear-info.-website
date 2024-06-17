@@ -4,7 +4,7 @@ const Products = ()=>{
     return(
     
         <div>
-            <h2>Products</h2>
+            <h2 className='title'>Products</h2>
             <div className="Products">
                 <div className='products1'> 
                 <img src ="/images/chondo.jpeg" alt='' id='product'/><br></br>
