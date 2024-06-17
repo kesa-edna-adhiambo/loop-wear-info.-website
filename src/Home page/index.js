@@ -9,7 +9,7 @@ const Homepage = () => {
         <img src = "/images/logo.png" alt = "logo"/>
 
         <div className= "navbar">
-            <span>Home</span>
+            <span id='span'>Home</span>
             <a href = "/about.index.js">About</a><br></br>
             <a href = "/products.index.js">Products</a><br></br>
             <a href = "/team.index.js">Team</a><br></br>
