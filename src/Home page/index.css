@@ -1,0 +1,85 @@
+img{
+    width: 100px;
+    height: 80px;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.navbar{
+  gap: 60px;
+  display: flex;
+  margin-left: 100px;
+  margin-top: 80px;
+
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-size: x-large;
+}
+
+.nav-bar{
+    display: flex;
+    gap: 150px;
+    margin-left: 100px;
+}
+
+.homepage{
+    background-color: #F2E5DD;
+    
+}
+
+span{
+    font-size: x-large;
+    margin-right: 80px;
+    color: #7DAB08;
+}
+
+p{
+    font-size: xx-large;
+}
+
+button{
+    background-color: #0F2A4F;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: larger;
+    margin-top: 120px;
+}
+
+.content{
+    margin-left: 200px;
+    margin-top:80px;
+
+}
+
+.donorsImg{
+    width: 850px;
+    height: 700px;
+   
+}
+
+.container{
+    display: flex;
+    margin-right: 150px;
+}
+
+h1{
+    font-size: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
